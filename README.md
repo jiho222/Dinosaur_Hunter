@@ -11,6 +11,9 @@
 ## 플레이 영상
 #### https://www.youtube.com/watch?v=lPPGH_r9Ztk
 
+## 플레이 링크
+#### https://drive.google.com/file/d/1DCEJtsAEg5fNJgOOiWvYH93iwfNlPsRb/view?usp=drive_link
+
 ## 구현에 성공한 것들
 #### - 플레이어 이동, 회전, 점프, 공격, 체력, 사망
 #### - 플레이어 시점의 3인칭 카메라
