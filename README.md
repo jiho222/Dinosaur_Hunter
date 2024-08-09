@@ -1,6 +1,6 @@
 # Dinosaur_Haunter
 
-<img width="1368" alt="Demo" src="https://github.com/user-attachments/assets/e68195cf-ea88-4b7c-9643-3b833fa906fd">
+<img width="1368" alt="Thumbnail" src="https://github.com/user-attachments/assets/5c4207d2-6067-44ac-b7ad-33ed1f5fa867">
 
 ## 게임소개
 #### 석기시대의 전사가 되어 지형을 돌아다니며 공룡을 사냥하고 고기를 얻을 수 있는 기초적인 3D 게임입니다.
