@@ -1,4 +1,4 @@
-# Dinosaur_Haunter
+# Dinosaur_Hunter
 
 <img width="1368" alt="Thumbnail" src="https://github.com/user-attachments/assets/5c4207d2-6067-44ac-b7ad-33ed1f5fa867">
 
