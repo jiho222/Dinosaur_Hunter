@@ -25,7 +25,7 @@
 ## 플레이 링크
 #### https://drive.google.com/file/d/1DCEJtsAEg5fNJgOOiWvYH93iwfNlPsRb/view?usp=drive_link
 
-## 구현에 성공한 것들
+## 구현한 것들
 #### - 플레이어 이동, 회전, 점프, 공격, 체력, 사망
 #### - 플레이어 시점의 3인칭 카메라
 #### - 적의 플레이어 추적, 공격
@@ -49,3 +49,4 @@
 #### - Lowpoly Dinner Table
 #### - Dinner Table (치킨)
 #### - Fantasy Skybox Free(하늘)
+#### - QuarterView 3D Action by골드메탈
