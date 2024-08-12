@@ -1,7 +1,8 @@
 # Dinosaur_Hunter
 
 <img width="1368" alt="Thumbnail" src="https://github.com/user-attachments/assets/5c4207d2-6067-44ac-b7ad-33ed1f5fa867">
-<img width="1512" alt="티라사냥" src="https://github.com/user-attachments/assets/559bba19-34b3-4ee1-8e8e-84e3a98f4549">
+<img width="1195" alt="티라사냥" src="https://github.com/user-attachments/assets/19011a12-ccac-47c4-b794-50da9bc6d151">
+
 
 ## 게임소개
 #### 석기시대의 전사가 되어 지형을 돌아다니며 공룡을 사냥하고 고기를 얻을 수 있는 기초적인 3D 게임입니다.
